@@ -5,4 +5,6 @@ A simple program to solve the 24-Game using brute force algorithm, implemented i
 
 ## How to Run
 Simply access the Command Prompt and type
+```bash
 > python 24solver.py
+```
